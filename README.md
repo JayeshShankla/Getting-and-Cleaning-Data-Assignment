@@ -19,5 +19,5 @@ The R script, `run_analysis.R`, does the following:
 
 The end result is shown in the file `tidy.txt`.
 
-This is a four-week course. Apr 7th - May 4th, 2014.
+
 
